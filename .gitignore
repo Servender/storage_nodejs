@@ -1,0 +1,16 @@
+.idea
+docker-stack-*.yml
+
+**/.idea/
+**/target/
+*.iml
+.DS_Store
+
+/build
+/dist
+/log
+/packages/*/build
+/packages/*/dist
+**/.vscode
+**/node_modules
+.npm-cache
